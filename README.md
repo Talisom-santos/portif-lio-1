@@ -1,8 +1,10 @@
 # ♻️ Lixo Eletrônico (E-lixo) #
 
-Este README resume as principais informações contidas no cartaz sobre Lixo Eletrônico (E-lixo).
+**Este README resume as principais informações contidas no cartaz sobre Lixo Eletrônico (E-lixo).**
+
 
 O que é Lixo Eletrônico?
+
 É todo equipamento elétrico ou eletrônico que foi descartado.
 
 Exemplos incluem celulares, computadores, televisores, baterias, cabos e eletrodomésticos.
